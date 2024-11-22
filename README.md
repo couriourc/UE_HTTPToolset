@@ -1,6 +1,10 @@
 # HTTPToolset
 
-<img src="Resources/Icon128.png" width="100"   align="center">
+<p align="center">
+  <a href="https://github.com/couriourc/UE_HTTPToolset">
+    <img src="Resources/Icon128.png" alt="Logo" width="68">
+  </a>
+</p>
 
 ## Includes
 
